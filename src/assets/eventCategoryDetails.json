@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Games",
+    "value": [
+      "Badminton",
+      "Baseball",
+      "Basketball",
+      "Cricket",
+      "Football",
+      "Golf",
+      "Handball",
+      "Hockey",
+      "Rugby",
+      "Softball",
+      "Table Tennis",
+      "Tennis",
+      "Volleyball",
+      "Beach Volleyball"
+    ]
+  },
+  {
+    "name": "Velocity",
+    "value": [
+      {
+        "name": "Car Racing",
+        "value": [
+          "Track racing",
+          "Off the road racing",
+          "Drifting",
+          "Drag racing",
+          "Car rally"
+        ]
+      },
+      {
+        "name": "Bike Racing",
+        "value": [
+          "Track racing",
+          "Off the road racing",
+          "Drifting",
+          "Drag racing",
+          "Bike rally"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Summer Games",
+    "value": [
+      {
+        "name": "TRACK AND FIELD",
+        "value": [
+          "Running (meters)",
+          "Hurdles (meters)",
+          "Relay (meters)",
+          "Steeplechase (meters)",
+          "Marathon",
+          "Walk (km)",
+          "Long jump",
+          "High jump",
+          "Tripple jump",
+          "Pole Vault",
+          "Shot Put",
+          "Discus throw",
+          "Hammer throw",
+          "Javelin throw"
+        ]
+      },
+      {
+        "name": "AIM or TARGET",
+        "value": [
+          "Archery",
+          "Shooting"
+        ]
+      },
+      {
+        "name": "FIGHT",
+        "value": [
+          "Fencing (Epee)",
+          "Fencing (Foil)",
+          "Fencing (Sabre)",
+          "Karate (Kumite)",
+          "Karate (Kata)",
+          "Wrestling (Freestyle)",
+          "Wrestling (Greco-Roman)",
+          "Boxing",
+          "Judo",
+          "Taekwondo (Fly weight)",
+          "Taekwondo (Feather weight)",
+          "Taekwondo (Welter weight)",
+          "Taekwondo (Heavy weight)"
+        ]
+      },
+      {
+        "name": "EQUESTRIANS",
+        "value": [
+          "Dressage",
+          "Eventing",
+          "Jumping"
+        ]
+      },
+      {
+        "name": "WEIGHT LIFTING"
+      },
+      {
+        "name": "AQUATIC",
+        "value": [
+          "Canoe & kayak",
+          "DIVING (Platform)",
+          "DIVING (Springboard)",
+          "Rowing",
+          "Sailing",
+          "Surfing",
+          "SWIMMING (Freestyle)",
+          "SWIMMING (Backstroke)",
+          "SWIMMING (Butterfly)",
+          "SWIMMING (Medley (relay))",
+          "Synchronized swimming",
+          "Waterpolo"
+        ]
+      },
+      {
+        "name": "GYMNASTIC",
+        "value": [
+          "Balance Beam",
+          "Floor",
+          "Horizontal bar",
+          "Parallel bar",
+          "All-round",
+          "Rhythmic",
+          "Rings",
+          "Team",
+          "Trampoline",
+          "Uneven bar",
+          "Vault"
+        ]
+      },
+      {
+        "name": "MODERN SPORTS",
+        "value": [
+          "Decathlon",
+          "Heptathlon",
+          "Triathlon",
+          "Pentathlon"
+        ]
+      },
+      {
+        "name": "SKATE'S",
+        "value": [
+          "Skateboarding (Park)",
+          "Skateboarding (Street)"
+        ]
+      },
+      {
+        "name": "CYCLING",
+        "value": [
+          "Track cycling",
+          "BMX (Off the road)",
+          "Free style",
+          "Mountains biking",
+          "Roadrace"
+        ]
+      },
+      {
+        "name": "CLIMBING",
+        "value": [
+          "Extreme sport"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Winter Games",
+    "value": [
+      {
+        "name": "ICE sport",
+        "value": [
+          "Bobsled (Women monobob)",
+          "Bobsled (Two-man)",
+          "Bobsled (Two-women)",
+          "Bobsled (Four-man)",
+          "Luge",
+          "Skeleton",
+          "Ice hockey",
+          "Figure skating",
+          "Speed skating",
+          "Short track speed skating (500m, 1000m, 1500m and Relay's)",
+          "Curling"
+        ]
+      },
+      {
+        "name": "Alpine skiing"
+      },
+      {
+        "name": "Freestyle skiing"
+      },
+      {
+        "name": "Snowboarding"
+      },
+      {
+        "name": "Biathlon"
+      }
+    ]
+  },
+  {
+    "name": "GYM & WORKOUTS",
+    "value": [
+      "Gym",
+      "Zumba",
+      "Aerobics",
+      "Yoga"
+    ]
+  },
+  {
+    "name": "ADVENTURE SPORTS",
+    "value": [
+      "Hiking",
+      "Tracing",
+      "Marathon",
+      "Climbing",
+      "Parkour",
+      "Bungee jumping",
+      "Rappelling",
+      "Campfires",
+      "Safari",
+      "Obstacles race",
+      "Paragliding"
+    ]
+  },
+  {
+    "name": "FUN n FAMILY GAMES",
+    "value": [
+      "Frisbee",
+      "Pintball",
+      "Fishing",
+      "Dodgeball",
+      "Tug-war",
+      "Arm twist",
+      "Dart",
+      "Kitty games",
+      "Corporate and team bldg",
+      "Kids play zone",
+      "Theme park & rides",
+      "Water park & rides"
+    ]
+  },
+  {
+    "name": "INDOOR GAMES",
+    "value": [
+      "Bowling",
+      "Squash",
+      "Snooker",
+      "Billiard",
+      "Pool",
+      "Carrom",
+      "Chess",
+      "Board games",
+      "Card games"
+    ]
+  },
+  {
+    "name": "RELAX & HEAL",
+    "value": [
+      "Spa",
+      "Ayurvedic massage",
+      "Physiotherapists"
+    ]
+  },
+  {
+    "name": "PARA-SPORTS",
+    "value": [
+      "Archery",
+      "Athletics",
+      "Boccia",
+      "Cycling (track & road cycling)",
+      "Equestrians",
+      "Football 5-a-side (for vision impaired)",
+      "Goalball",
+      "Judo",
+      "Para-badminton",
+      "Paracanoe",
+      "Paratriathlon",
+      "Para-Taekwondo",
+      "Powerlifting",
+      "Rowing",
+      "Shooting",
+      "Sitting volleyball",
+      "Swimming",
+      "Table tennis",
+      "Wheelchair Basketball",
+      "Wheelchair fencing",
+      "Wheelchair Rugby",
+      "Wheelchair tennis",
+      "Alpine skiing",
+      "Biathlon",
+      "Cross-country skiing",
+      "Ice sledge hockey",
+      "Snowboarding",
+      "Wheelchair Curling",
+      "Ice sledge racing",
+      "Bobsled"
+    ]
+  }
+]
